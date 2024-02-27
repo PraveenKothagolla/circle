@@ -1,0 +1,44 @@
+body {
+  background-color: aqua;
+  margin-left:350px;
+}
+#aclass {
+  border: 10px solid black;
+  height: 500px;
+  width: 500px;
+  border-radius: 100%;
+  background-color: thistle;
+}
+#bclass {
+  border: 10px solid black;
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+  margin-left: 40px;
+  margin-top: 40px;
+  background-color: brown;
+}
+#cclass {
+  border: 10px solid black;
+  border-radius: 1000px;
+  height: 300px;
+  width: 300px;
+  margin-left: 40px;
+  margin-top: 40px;
+  background-color: bisque;
+}
+#dclass {
+  border: 5px solid black;
+  height: 200px;
+  width: 200px;
+  border-radius: 400px;
+  margin-left: 40px;
+  margin-top: 40px;
+  background-color: darkgoldenrod;
+  
+}
+#cc{
+    margin-left:70px;
+    margin-top:80px
+
+}
